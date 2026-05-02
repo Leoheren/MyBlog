@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/Leoheren/MyBlog/refs/heads/main/MyBlogI
 笔者发现在SIFU中，“强对比”贯穿了整个游戏，无论是美术视觉设计层面，剧情设定层面，还是游戏玩法层面都藏着强烈的对比。例如在第二关夜店中不停的进行强烈的冷暖色转换，BOSS与关卡代表的思想相斥，地形与交互道具数量的对比等。。。可见“强对比”在SIFU中无处不在。读者可在下方的解析中逐步品味。
 
 **第二关夜店中强烈且频繁的冷暖色转换**
-![SIFU](夜店冷暖对比.gif)
+![SIFU](https://raw.githubusercontent.com/Leoheren/MyBlog/refs/heads/main/MyBlogImage/SIFU%E5%A4%9A%E4%BA%BA%E6%88%98%E5%9C%BA%E6%99%AF%E4%BA%A4%E4%BA%92%E5%88%86%E6%9E%90.png)
 
 ## 敌方&我方
 轮到说多人战斗中的基本双方了，本段略过战斗机制的陈述，主要分析敌我双方与地形道具的交互对多人战体验的塑造。
