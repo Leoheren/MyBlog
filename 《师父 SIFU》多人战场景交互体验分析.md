@@ -3,7 +3,7 @@ title: 《师父 SIFU》多人战场景交互体验分析
 date: 2026-05-02
 tags: 
 description: 
-image: 
+image: https://raw.githubusercontent.com/Leoheren/MyBlog/refs/heads/main/MyBlogImage/SIFU%E5%A4%9A%E4%BA%BA%E6%88%98%E5%9C%BA%E6%99%AF%E4%BA%A4%E4%BA%92%E5%88%86%E6%9E%90.png
 ---
 
 **笔者前段时间十分沉迷SIFU这款动作游戏，它以格斗游戏的部分基底辅以强交互的场景实现了一套十分独特的多人战体验，SIFU作为ACT上来说深度肯定是比不上忍龙贝姐这些大老牌ACT的，但是笔者认为别具一格的广度扩展与文化艺术性在ACT领域里有着不可替代的独特体验。本文将围绕着SIFU的多人战场景交互体验进行分析。**
