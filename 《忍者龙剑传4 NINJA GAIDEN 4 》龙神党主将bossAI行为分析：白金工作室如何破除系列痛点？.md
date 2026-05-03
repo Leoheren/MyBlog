@@ -1,7 +1,7 @@
 ---
 title: 《忍者龙剑传4 NINJA GAIDEN 4 》龙神党主将bossAI行为分析：白金工作室如何破除系列痛点？
-date: 2026-05-02
-tags: 
+date: 2026-05-02 00:00:00
+tags: 专题拆解, ACT
 description: 
 image: 
 ---
