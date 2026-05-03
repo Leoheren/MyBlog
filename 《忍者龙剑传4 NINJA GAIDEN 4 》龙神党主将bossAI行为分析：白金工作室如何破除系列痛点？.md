@@ -159,7 +159,7 @@ pie showData title 龙神党主将战斗序列分布（二阶段）
   以上就是本次忍龙4龙神党主将战斗AI行为分析的全部了，本次只使用了传统的方法进行了推敲分析，希望后面能有机会用实际反编译的脚本来进行进一步的分析。文章如有纰漏请多多指出，不足之处还请多多包含。
 
 ### 参考资料&感谢：
-[《只狼战斗的核心：一场刀光剑影的乒乓球》 - 知乎](https://zhuanlan.zhihu.com/p/65128052
+[《只狼战斗的核心：一场刀光剑影的乒乓球》 - 知乎](https://zhuanlan.zhihu.com/p/65128052)
 [拆包看狮子猿AI设计 | 设计者笔记](https://design.jskyzero.com/2023/10/10/sekiro_lion_tamarin_AI/)
 [Home | DTZxPorter](https://dtzxporter.com/)
 [忍龙4 - 白金动作逆向学习](https://www.bilibili.com/video/BV1tZ1cBaEFC?vd_source=65eff08aa6cdba2f25bb8fc655ac86b0)
