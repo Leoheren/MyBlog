@@ -1,12 +1,7 @@
 {
   "bannerImage": "https://raw.githubusercontent.com/Leoheren/MyBlog/refs/heads/main/images/banner-1777726439299.png",
   "bannerPost": "",
-  "featuredPosts": [
-    "《仁王 NIOH》系列战斗设计导向分析——如何站在巨人肩膀上做出特色设计.md",
-    "《师父 SIFU》多人战场景交互体验分析.md"
-  ],
-  "featuredTitles": {
-    "《仁王 NIOH》系列战斗设计导向分析——如何站在巨人肩膀上做出特色设计.md": "仁王拆解",
-    "《师父 SIFU》多人战场景交互体验分析.md": "师傅拆解"
-  }
+  "featuredUrls": [
+    "file:///D:/MyBlog/post.html?id=%E3%80%8A%E5%B8%88%E7%88%B6%20SIFU%E3%80%8B%E5%A4%9A%E4%BA%BA%E6%88%98%E5%9C%BA%E6%99%AF%E4%BA%A4%E4%BA%92%E4%BD%93%E9%AA%8C%E5%88%86%E6%9E%90"
+  ]
 }
