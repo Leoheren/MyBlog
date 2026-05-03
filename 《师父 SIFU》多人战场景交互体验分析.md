@@ -8,7 +8,6 @@ image: https://raw.githubusercontent.com/Leoheren/MyBlog/refs/heads/main/MyBlogI
 
 **笔者前段时间十分沉迷SIFU这款动作游戏，它以格斗游戏的部分基底辅以强交互的场景实现了一套十分独特的多人战体验，SIFU作为ACT上来说深度肯定是比不上忍龙贝姐这些大老牌ACT的，但是笔者认为别具一格的广度扩展与文化艺术性在ACT领域里有着不可替代的独特体验。本文将围绕着SIFU的多人战场景交互体验进行分析。**
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116397489326942&bvid=BV17oQtBzEAX&cid=37476961024&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 引言：“强对比”
 笔者发现在SIFU中，“强对比”贯穿了整个游戏，无论是美术视觉设计层面，剧情设定层面，还是游戏玩法层面都藏着强烈的对比。例如在第二关夜店中不停的进行强烈的冷暖色转换，BOSS与关卡代表的思想相斥，地形与交互道具数量的对比等。。。可见“强对比”在SIFU中无处不在。读者可在下方的解析中逐步品味。
