@@ -1,7 +1,7 @@
 ---
 title: 如何快速通过Foobar2000＋vgmstream解包转换游戏音效？
-date: 2026-05-02
-tags: 
+date: 2026-05-02 00:00:00
+tags: 备忘指南, 教程, 逆向
 description: 1
 image: 
 ---
