@@ -1,6 +1,6 @@
 ---
 title: 《忍者龙剑传4 NINJA GAIDEN 4 》龙神党主将bossAI行为分析：白金工作室如何破除系列痛点？
-date: 2026-05-02 00:00:00
+date: 2026-05-01 16:00:00
 tags: 专题拆解, ACT
 description: 
 image: 
@@ -24,7 +24,8 @@ image:
 变化可见一斑。
 ##### 2.2战斗序列分析
 
-【【忍者龙剑传4】龙神党主将ai行为分析】https://www.bilibili.com/video/BV1Cy6vB6Ehy?vd_source=65eff08aa6cdba2f25bb8fc655ac86b0
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115983058471676&bvid=BV1Cy6vB6Ehy&cid=35706046676&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ###### 2.2.1一阶段
 通过录制一部分游戏战斗序列（boss一阶段）进行简单的AI行为分析，我们可以看出几点：
 
