@@ -1,6 +1,10 @@
 {
   "bannerImage": "https://raw.githubusercontent.com/Leoheren/MyBlog/refs/heads/main/images/banner-1777726439299.png",
   "bannerPost": "",
-  "featuredUrls": [],
-  "featuredTitles": []
+  "featuredUrls": [
+    "《忍者龙剑传4 NINJA GAIDEN 4 》龙神党主将bossAI行为分析：白金工作室如何破除系列痛点？.md"
+  ],
+  "featuredTitles": [
+    ""
+  ]
 }
