@@ -1,7 +1,7 @@
 ---
 title: C++2d小引擎笔记
-date: 2026-05-10 03:47:00
-tags: 
+date: 2026-05-09 19:47:00
+tags: 闲杂笔记
 description: 
 image: 
 ---
