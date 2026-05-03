@@ -1,9 +1,9 @@
 ---
 title: 《仁王 NIOH》系列战斗设计导向分析——如何站在巨人肩膀上做出特色设计
-date: 2026-05-02 16:00:00
+date: 2026-05-02 08:00:00
 tags: 专题拆解, ACT
 description: 这是一个神奇的游戏拆解非常棒非常妙非常非常好哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
-image: 
+image: https://github.com/Leoheren/MyBlog/blob/main/images/仁王2拆解_5.png?raw=true
 ---
 
 ## 引言
